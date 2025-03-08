@@ -1,0 +1,8 @@
+repository/SkillRepository.class
+entity/Skill.class
+service/ResourceService.class
+exception/InvalidInputException.class
+repository/ResourceRepository.class
+com/example/demo/ResourceAllocationApplication.class
+controller/ResourceController.class
+entity/Resource.class
